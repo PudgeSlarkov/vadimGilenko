@@ -1,0 +1,3 @@
+C:\Users\Юзверь\source\repos\mimka divanov\mimka divanov\obj\Debug\netcoreapp3.0\mimka divanov.csprojAssemblyReference.cache
+C:\Users\Юзверь\source\repos\mimka divanov\mimka divanov\obj\Debug\netcoreapp3.0\mimka divanov.AssemblyInfoInputs.cache
+C:\Users\Юзверь\source\repos\mimka divanov\mimka divanov\obj\Debug\netcoreapp3.0\mimka divanov.AssemblyInfo.cs
