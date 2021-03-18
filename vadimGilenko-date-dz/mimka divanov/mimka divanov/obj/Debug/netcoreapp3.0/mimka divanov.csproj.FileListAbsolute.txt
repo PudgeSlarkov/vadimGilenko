@@ -1,0 +1,27 @@
+C:\Users\Юзверь\source\repos\mimka divanov\mimka divanov\obj\Debug\netcoreapp3.0\mimka divanov.csprojAssemblyReference.cache
+C:\Users\Юзверь\source\repos\mimka divanov\mimka divanov\obj\Debug\netcoreapp3.0\mimka divanov.AssemblyInfoInputs.cache
+C:\Users\Юзверь\source\repos\mimka divanov\mimka divanov\obj\Debug\netcoreapp3.0\mimka divanov.AssemblyInfo.cs
+C:\Users\Pudge2002\Desktop\dz VS\mimka divanov\mimka divanov\bin\Debug\netcoreapp3.0\mimka divanov.exe
+C:\Users\Pudge2002\Desktop\dz VS\mimka divanov\mimka divanov\bin\Debug\netcoreapp3.0\mimka divanov.deps.json
+C:\Users\Pudge2002\Desktop\dz VS\mimka divanov\mimka divanov\bin\Debug\netcoreapp3.0\mimka divanov.runtimeconfig.json
+C:\Users\Pudge2002\Desktop\dz VS\mimka divanov\mimka divanov\bin\Debug\netcoreapp3.0\mimka divanov.runtimeconfig.dev.json
+C:\Users\Pudge2002\Desktop\dz VS\mimka divanov\mimka divanov\bin\Debug\netcoreapp3.0\mimka divanov.dll
+C:\Users\Pudge2002\Desktop\dz VS\mimka divanov\mimka divanov\bin\Debug\netcoreapp3.0\mimka divanov.pdb
+C:\Users\Pudge2002\Desktop\dz VS\mimka divanov\mimka divanov\obj\Debug\netcoreapp3.0\mimka divanov.csprojAssemblyReference.cache
+C:\Users\Pudge2002\Desktop\dz VS\mimka divanov\mimka divanov\obj\Debug\netcoreapp3.0\mimka divanov.AssemblyInfoInputs.cache
+C:\Users\Pudge2002\Desktop\dz VS\mimka divanov\mimka divanov\obj\Debug\netcoreapp3.0\mimka divanov.AssemblyInfo.cs
+C:\Users\Pudge2002\Desktop\dz VS\mimka divanov\mimka divanov\obj\Debug\netcoreapp3.0\mimka divanov.csproj.CoreCompileInputs.cache
+C:\Users\Pudge2002\Desktop\dz VS\mimka divanov\mimka divanov\obj\Debug\netcoreapp3.0\mimka divanov.dll
+C:\Users\Pudge2002\Desktop\dz VS\mimka divanov\mimka divanov\obj\Debug\netcoreapp3.0\mimka divanov.pdb
+C:\Users\Pudge2002\Desktop\dz VS\mimka divanov\mimka divanov\obj\Debug\netcoreapp3.0\mimka divanov.genruntimeconfig.cache
+C:\Users\Юзверь\Desktop\vzriv\vadimGilenko-date-dz\mimka divanov\mimka divanov\bin\Debug\netcoreapp3.0\mimka divanov.exe
+C:\Users\Юзверь\Desktop\vzriv\vadimGilenko-date-dz\mimka divanov\mimka divanov\bin\Debug\netcoreapp3.0\mimka divanov.deps.json
+C:\Users\Юзверь\Desktop\vzriv\vadimGilenko-date-dz\mimka divanov\mimka divanov\bin\Debug\netcoreapp3.0\mimka divanov.runtimeconfig.json
+C:\Users\Юзверь\Desktop\vzriv\vadimGilenko-date-dz\mimka divanov\mimka divanov\bin\Debug\netcoreapp3.0\mimka divanov.runtimeconfig.dev.json
+C:\Users\Юзверь\Desktop\vzriv\vadimGilenko-date-dz\mimka divanov\mimka divanov\bin\Debug\netcoreapp3.0\mimka divanov.dll
+C:\Users\Юзверь\Desktop\vzriv\vadimGilenko-date-dz\mimka divanov\mimka divanov\bin\Debug\netcoreapp3.0\mimka divanov.pdb
+C:\Users\Юзверь\Desktop\vzriv\vadimGilenko-date-dz\mimka divanov\mimka divanov\obj\Debug\netcoreapp3.0\mimka divanov.csprojAssemblyReference.cache
+C:\Users\Юзверь\Desktop\vzriv\vadimGilenko-date-dz\mimka divanov\mimka divanov\obj\Debug\netcoreapp3.0\mimka divanov.AssemblyInfoInputs.cache
+C:\Users\Юзверь\Desktop\vzriv\vadimGilenko-date-dz\mimka divanov\mimka divanov\obj\Debug\netcoreapp3.0\mimka divanov.AssemblyInfo.cs
+C:\Users\Юзверь\Desktop\vzriv\vadimGilenko-date-dz\mimka divanov\mimka divanov\obj\Debug\netcoreapp3.0\mimka divanov.dll
+C:\Users\Юзверь\Desktop\vzriv\vadimGilenko-date-dz\mimka divanov\mimka divanov\obj\Debug\netcoreapp3.0\mimka divanov.pdb
