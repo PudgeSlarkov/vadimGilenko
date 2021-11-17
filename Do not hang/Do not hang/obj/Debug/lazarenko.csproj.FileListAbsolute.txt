@@ -1,0 +1,10 @@
+C:\Users\Admin\Desktop\курсач\Do not hang\Do not hang\obj\Debug\lazarenko.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\курсач\Do not hang\Do not hang\obj\Debug\Do_not_hang.Form1.resources
+C:\Users\Admin\Desktop\курсач\Do not hang\Do not hang\obj\Debug\Do_not_hang.Properties.Resources.resources
+C:\Users\Admin\Desktop\курсач\Do not hang\Do not hang\obj\Debug\lazarenko.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\курсач\Do not hang\Do not hang\obj\Debug\lazarenko.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\курсач\Do not hang\Do not hang\obj\Debug\Do not hang.exe
+C:\Users\Admin\Desktop\курсач\Do not hang\Do not hang\obj\Debug\Do not hang.pdb
+C:\Users\Admin\Desktop\курсач\Do not hang\Do not hang\bin\Debug\Do not hang.exe.config
+C:\Users\Admin\Desktop\курсач\Do not hang\Do not hang\bin\Debug\Do not hang.exe
+C:\Users\Admin\Desktop\курсач\Do not hang\Do not hang\bin\Debug\Do not hang.pdb
